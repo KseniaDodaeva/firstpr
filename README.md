@@ -1,3 +1,3 @@
-C:\Users\senia\PhpstormProjects\untitled
+\PhpstormProjects\untitled
 
 Додаева Ксения КЭИ
